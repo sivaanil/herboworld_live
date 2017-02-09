@@ -1,0 +1,205 @@
+2016-04-06T14:15:42+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-08T15:41:20+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-10T07:46:25+00:00 ERR (3): Warning: include(HALO/Haloebajessettings/Model/Observer.php): failed to open stream: No such file or directory  in /home/herboworld/public_html/lib/Varien/Autoload.php on line 93
+2016-04-10T07:46:25+00:00 ERR (3): Warning: include(HALO/Haloebajessettings/Model/Observer.php): failed to open stream: No such file or directory  in /home/herboworld/public_html/lib/Varien/Autoload.php on line 93
+2016-04-10T07:46:25+00:00 ERR (3): Warning: include(): Failed opening 'HALO/Haloebajessettings/Model/Observer.php' for inclusion (include_path='/home/herboworld/public_html/app/code/local:/home/herboworld/public_html/app/code/community:/home/herboworld/public_html/app/code/core:/home/herboworld/public_html/lib:.:/opt/php54/lib/php')  in /home/herboworld/public_html/lib/Varien/Autoload.php on line 93
+2016-04-10T09:34:40+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-10T09:37:54+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-10T09:38:02+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-10T09:38:09+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-10T09:41:25+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-10T09:41:26+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-10T13:51:48+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:54:16+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:54:16+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:54:27+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:54:27+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:55:05+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:55:05+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:55:18+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:55:18+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:59:34+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:59:34+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:59:46+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:59:46+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:59:59+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T07:59:59+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T08:00:01+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T08:00:01+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-18T16:21:02+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:31:34+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:34:41+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:35:54+00:00 ERR (3): Notice: Undefined variable: referer  in /home/herboworld/public_html/app/code/local/Excellence/AjaxWishlist/controllers/IndexController.php on line 109
+2016-04-23T08:36:05+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:36:41+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:37:43+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:38:24+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:39:54+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:40:16+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:40:50+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:41:18+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:41:32+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:41:47+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:42:08+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:44:47+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:44:47+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:45:28+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:45:28+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:45:28+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:45:56+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:45:56+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:45:56+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:45:57+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:45:57+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:45:57+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:46:23+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:46:23+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:46:23+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:05+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:05+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:05+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:12+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:12+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:12+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:22+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:22+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:22+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:40+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:40+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T08:47:40+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T12:22:36+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-23T13:01:02+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-25T09:41:50+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-25T09:42:06+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-25T09:42:27+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-28T17:01:16+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-28T17:02:03+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-28T17:02:21+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-28T17:02:33+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-28T17:02:41+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-04-28T17:03:13+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-05-13T10:25:35+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-05-15T05:29:48+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-05-15T05:31:06+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-05-15T05:31:11+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-05-15T05:31:13+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/electronics_laptops.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Abstract.php on line 87
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/electronics_laptops.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Gd2.php on line 71
+2016-05-17T06:37:02+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/herboworld/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home/herboworld/public_html/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/herboworld/public_html/app/Mage.php:684
+[6] /home/herboworld/public_html/index.php:87
+</pre>
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/head_electronics_laptops.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Abstract.php on line 87
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/head_electronics_laptops.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Gd2.php on line 71
+2016-05-17T06:37:02+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/herboworld/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home/herboworld/public_html/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/herboworld/public_html/app/Mage.php:684
+[6] /home/herboworld/public_html/index.php:87
+</pre>
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/electronics_digitalcameras.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Abstract.php on line 87
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/electronics_digitalcameras.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Gd2.php on line 71
+2016-05-17T06:37:02+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/herboworld/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home/herboworld/public_html/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/herboworld/public_html/app/Mage.php:684
+[6] /home/herboworld/public_html/index.php:87
+</pre>
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/head_electronics_cellphones.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Abstract.php on line 87
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/head_electronics_cellphones.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Gd2.php on line 71
+2016-05-17T06:37:02+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/herboworld/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home/herboworld/public_html/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/herboworld/public_html/app/Mage.php:684
+[6] /home/herboworld/public_html/index.php:87
+</pre>
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/electronics_cellphones.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Abstract.php on line 87
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/electronics_cellphones.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Gd2.php on line 71
+2016-05-17T06:37:02+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/herboworld/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home/herboworld/public_html/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/herboworld/public_html/app/Mage.php:684
+[6] /home/herboworld/public_html/index.php:87
+</pre>
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/head_electronics_digicamera.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Abstract.php on line 87
+2016-05-17T06:37:02+00:00 ERR (3): Warning: getimagesize(http://www.herboworld.co.in/skin/adminhtml/base/default/images/media/head_electronics_digicamera.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in /home/herboworld/public_html/lib/Varien/Image/Adapter/Gd2.php on line 71
+2016-05-17T06:37:02+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /home/herboworld/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /home/herboworld/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /home/herboworld/public_html/app/code/core/Mage/Core/Model/App.php:354
+[5] /home/herboworld/public_html/app/Mage.php:684
+[6] /home/herboworld/public_html/index.php:87
+</pre>
+2016-06-05T18:16:52+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-06-05T18:25:04+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-06-05T18:28:27+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-06-05T18:28:57+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-06-15T21:33:10+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-06-15T21:33:24+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-06-16T10:09:38+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-06-16T10:09:43+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-06-16T10:09:50+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-06-28T13:16:31+00:00 ERR (3): Notice: Undefined index: street  in /home/herboworld/public_html/app/code/community/Payu/PayuCheckout/Model/Shared.php on line 161
+2016-06-28T13:16:31+00:00 ERR (3): Notice: Undefined index: street  in /home/herboworld/public_html/app/code/community/Payu/PayuCheckout/Model/Shared.php on line 172
+2016-07-11T04:56:54+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-11T04:56:55+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-11T04:56:57+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-11T04:56:57+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-11T04:56:59+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-11T04:56:59+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-11T04:57:00+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-11T14:30:55+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-11T14:36:39+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-17T07:33:32+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-17T07:33:42+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-17T07:33:51+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-07-17T07:35:04+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-09-13T08:35:45+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-09-13T08:35:47+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-09-13T08:35:59+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-10-14T04:17:31+00:00 ERR (3): Notice: Undefined variable: referer  in /home/herboworld/public_html/app/code/local/Excellence/AjaxWishlist/controllers/IndexController.php on line 109
+2016-11-05T14:02:43+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:02:44+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:02:59+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:03:21+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:03:27+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:03:27+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:03:34+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:03:50+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:04:08+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:04:09+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:04:11+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:04:16+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:04:22+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:06:26+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:06:48+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-05T14:19:28+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-08T15:54:45+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-08T15:54:51+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-08T16:14:03+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15
+2016-11-08T19:33:42+00:00 ERR (3): Notice: Undefined index: isAjax  in /home/herboworld/public_html/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml on line 15

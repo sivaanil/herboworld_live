@@ -1,0 +1,125 @@
+
+<div class="footer-container">
+		<div class="contact-main">
+			<span class="btn-contact">Contacts</span>
+			<form action="" id="contactForm" method="post">
+			    <div class="fieldset">
+	              <h2 class="legend">Contact Information</h2>
+	              <ul class="form-list">
+	                  <li class="fields">
+	                      <div class="field">
+	                          <label for="name" class="required"><em>*</em>Name</label>
+	                          <div class="input-box">
+	                              <input name="name" id="name" title="Name" value="" class="input-text required-entry" type="text" />
+	                          </div>
+	                      </div>
+	                      <div class="field">
+	                          <label for="email" class="required"><em>*</em>Email</label>
+	                          <div class="input-box">
+	                              <input name="email" id="email" title="Email" value="" class="input-text required-entry validate-email" type="text" />
+	                          </div>
+	                      </div>
+							<div class="field last">
+								<label for="telephone">Telephone</label>
+								<div class="input-box">
+									<input name="telephone" id="telephone" title="Telephone" value="" class="input-text" type="text" />
+								</div>
+							</div>
+	                  </li>
+	                  <li class="wide">
+	                      <label for="comment" class="required"><em>*</em>Comment</label>
+	                      <div class="input-box">
+	                          <textarea name="comment" id="comment" title="Comment" class="required-entry input-text" cols="5" rows="3"></textarea>
+	                      </div>
+	                  </li>
+	              </ul>
+	          </div>
+	          <div class="buttons-set">
+	              <input type="text" name="hideit" id="hideit" value="" style="display:none !important;" />
+	              <button type="submit" title="Submit" class="button"><span><span>Submit</span></span></button><p class="required">* Required Fields</p>
+	          </div>
+	      </form>
+	</div>
+ 
+<div class="account-login-home"> <span class="btn-log">Login</span>       <form action="http://www.herboworld.co.in/index.php/customer/account/loginPost/?___SID=U" method="post" id="login-form">
+    <div class="col2-set">
+      <div class="col-home">
+        <div class="content">
+          <h2>New Customers</h2>
+          <p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
+          <div class="buttons-set">
+            <button type="button" title="Create an Account" class="button" onclick="window.location='http://www.herboworld.co.in/index.php/customer/account/create/?___SID=U';"><span><span>Create an Account</span></span></button>
+          </div>
+        </div>
+      </div>
+      <div class="col-home-2">
+        <div class="content">
+          <h2>Registered Customers</h2>
+          <p>If you have an account with us, please log in.</p>
+          <ul class="form-list">
+            <li>
+              <label for="email" class="required"><em>*</em>Email Address</label>
+              <div class="input-box">
+                <input type="text" name="login[username]" value="" id="email" class="input-text required-entry validate-email" title="Email Address" />
+              </div>
+            </li>
+            <li>
+              <label for="pass" class="required"><em>*</em>Password</label>
+              <div class="input-box">
+                <input type="password" name="login[password]" class="input-text required-entry validate-password" id="pass" title="Password" />
+              </div>
+            </li>
+                      </ul>
+          <div class="buttons-set"> <a href="http://www.herboworld.co.in/index.php/customer/account/forgotpassword/?___SID=U" class="f-left">Forgot Your Password?</a>
+            <p class="required">* Required Fields</p>
+            <button type="submit" class="button" title="Login" name="send" id="send2"><span><span>Login</span></span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+  <script type="text/javascript">
+    //<![CDATA[
+        var dataForm = new VarienForm('login-form', true);
+    //]]>
+    </script> 
+</div>
+ 
+ 
+<script type="text/javascript">
+//<![CDATA[
+    var contactForm = new VarienForm('contactForm', true);
+//]]>
+</script>
+
+  <div class="footer">
+    <div class="padd-footer">
+      <div class="wrapper">
+        <div class="footer-col"> 
+                        <ul class="links">
+                        <li class="first" ><a href="http://www.herboworld.co.in/index.php/catalog/seo_sitemap/category/?___SID=U" title="Site Map" ><span>Site Map</span></a></li>
+                                <li ><a href="http://www.herboworld.co.in/index.php/catalogsearch/term/popular/?___SID=U" title="Search Terms" ><span>Search Terms</span></a></li>
+                                <li ><a href="http://www.herboworld.co.in/index.php/catalogsearch/advanced/?___SID=U" title="Advanced Search" ><span>Advanced Search</span></a></li>
+                                <li ><a href="http://www.herboworld.co.in/index.php/sales/guest/form/?___SID=U" title="Orders and Returns" >Orders and Returns</a></li>
+                                <li class=" last" ><a href="http://www.herboworld.co.in/index.php/contacts/?___SID=U" title="Contact Us" ><span>Contact Us</span></a></li>
+            </ul>
+        </div>
+        <div class="footer-col-1"> </div>
+        <div class="footer-col-2">  </div>
+       <div style="padding-right: 300px; float: right; padding-top: 50px;">
+	<a href="https://www.facebook.com/herboworld2016" target="_blank" style="padding-left: 10px;display: inline-block;">
+		<img src="/skin/frontend/default/theme376f/images/facebook.png">
+	</a>
+	<a href="#" style="padding-left: 10px;">
+		<img src="/skin/frontend/default/theme376f/images/twitter.png">
+	</a>
+	<a href="#" style="padding-left: 10px;">
+		<img src="/skin/frontend/default/theme376f/images/google-plus.png">
+	</a>
+	</div>
+      </div>
+    </div>
+    <address>
+        </address>
+          </div>
+</div>

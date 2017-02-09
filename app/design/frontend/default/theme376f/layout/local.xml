@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+            <!-- Mage_Poll -->
+            <remove name="right.poll" />
+
+            <!--  Paypal ad -->
+            <remove name="paypal.partner.right.logo" />    
+            
+            <!--  Popular Tags -->
+            <remove name="tags_popular"/>   
+           <remove name="catalog.compare.sidebar"/>
+           <remove name="left.newsletter"/>
+           <remove name="right.reports.product.compared"/>
+   
+   
+    </default>
+</layout>

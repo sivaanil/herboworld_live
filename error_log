@@ -1,0 +1,3 @@
+[03-Apr-2016 15:58:39 UTC] PHP Fatal error:  Class 'Mage_Customer_Helper_Data' not found in /home/herboworld/public_html/app/Mage.php on line 547
+[23-Apr-2016 08:38:37 UTC] PHP Fatal error:  Call to a member function setTemplate() on a non-object in /home/herboworld/public_html/app/code/local/Excellence/AjaxWishlist/controllers/IndexController.php on line 22
+[14-Oct-2016 04:17:35 UTC] PHP Fatal error:  Call to a member function setTemplate() on a non-object in /home/herboworld/public_html/app/code/local/Excellence/AjaxWishlist/controllers/IndexController.php on line 22
